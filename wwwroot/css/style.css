@@ -1,0 +1,15 @@
+.form-group {
+    margin-bottom: 1rem;
+    width: 380%;
+}
+
+.profilepic {
+    width: 40%;
+    /* -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg); */
+    transform: rotate(90deg);
+    padding: 5%;
+
+}
